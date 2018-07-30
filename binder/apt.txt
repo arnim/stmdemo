@@ -1,0 +1,3 @@
+htop
+gsl-bin
+libgsl0-dev
